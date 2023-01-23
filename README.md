@@ -15,7 +15,8 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 Import numpy package
 ### Step 2:
 Get the input matrix
-### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
+### Step 3: 
+Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 4: 
 Print the result
 
@@ -31,7 +32,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![](eigenoutput.png)
+![](e1.png)
 
 ## Result:
-Thus the Eigenvalue and Eigenvector is successfully solved using python program
+Thus the Eigenvalue and Eigenvector is successfully solved using python program.
